@@ -118,16 +118,7 @@ const MeditationDetails = () => {
   
       <Footer data={meditationItem} />
     </SafeAreaView>
-  );
-  
-  
-
-
-return(
-<>
-
-</>
-)
+  )
 }
 export default MeditationDetails;
 
